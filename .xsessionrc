@@ -1,0 +1,2 @@
+xmodmap ~/.Xmodmap
+setxkbmap -option caps:ctrl_modifier
